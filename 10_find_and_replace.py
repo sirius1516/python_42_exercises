@@ -3,9 +3,6 @@ Write a findAndReplace() function that has three parameters: text is the string 
 be replaced, oldText is the text to be replaced, and newText is the replacement text. Keep in mind
 that this function must be case-sensitive: if you are replacing 'dog' with 'fox', then the 'DOG' in
 'MY DOG JONESY' won’t be replaced.
-These Python assert statements stop the program if their condition is False. Copy them to
-the bottom of your solution program. Your solution is correct if the following assert statements’
-conditions are all True:
 '''
 
 
